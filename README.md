@@ -7,5 +7,5 @@ dataset from Kaggle and gain insights for betting. Also, to apply linear models 
 
 ### Technologies
 
-- Typical data science tools - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `sqlite3`, 
-but also `duckdb` for querying large pandas dataframes in memory.
+- Typical data science tools - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`.
+- Database tools - `duckdb`, `sqlite3`.
